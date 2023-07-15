@@ -1,10 +1,10 @@
 # Praktické aspekty vývoje software
 
-Prostredi
+## Prostředí
 ---------
 Ubuntu 64bit
 
-Autori
+## Tým
 ---------
 
 123456789
@@ -13,7 +13,9 @@ Autori
 - xrepin00 Tetiana Repina
 - xniesl00 Adam Nieslanik
 
-Licence
+## Licence
 ---------
 
 Tento program je poskytovan GNU GPL v.3
+
+## Hodnocení 42/52 b
