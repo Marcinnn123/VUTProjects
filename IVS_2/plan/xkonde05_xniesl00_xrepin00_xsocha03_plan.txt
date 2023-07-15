@@ -1,0 +1,23 @@
+tým:
+    xkonde05
+    xniesl00
+    xrepin00
+    xsocha03
+
+přidělení úkolů na projektu jednotlivým řešitelům a stanovené termíny:
+    testy pro matematickou knihovnu - xrepin00, do 3.4
+    matematická knihovna - xniesl00, do 10.4
+    profiling - xsocha03, do 17.4
+    qt gui - xkonde05, do 17.4
+
+    Mockup, uživatelská příručka a jiné doplňující úkoly, se rozdělí tak aby srovnat příspěvek členů týmu v projekt.
+    Dokumentace zdrojáku bude probíhat průběžně.
+
+zvolené komunikační kanály pro komunikaci v týmu a stanovená pravidla pro komunikaci:
+    Primárně se tým bude komunikovat přes skupinový chat na discordu.
+    Je dovolená i komunikace verbální pokud se členové týmu potkají prezenčně.
+
+zvolený systém pro správu verzí a hosting:
+    Zvolen byl systém git, a hosting na Githubu.
+    Uživateli ivskontrola byl přidelěn přístup do repozitáře.
+    odkaz: https://github.com/BRTEK007/ivs-proj-2
